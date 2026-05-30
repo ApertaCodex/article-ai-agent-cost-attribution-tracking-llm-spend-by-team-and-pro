@@ -203,19 +203,3 @@ A final caution: not all costs are LLM tokens. Human approval time, infrastructu
 Cost attribution for AI agents isn't a dashboard feature; it's a governance practice. Without it, enterprise adoption stalls the moment the CFO sees an unlabeled line item. With it, engineering teams get the visibility to optimize their agents, finance gets the data to budget confidently, and the organization can scale agent usage without financial anxiety.
 
 Omnithium weaves tagging, workspace isolation, budget controls, and anomaly detection into the platform runtime so attribution happens automatically, not as an after-the-fact reconciliation. The workspace model gives you a natural unit for showback or chargeback, and the policy engine ensures tags aren't optional. If you're evaluating how to bring FinOps discipline to your agent deployments, you can explore the full platform at [Omnithium](https://omnithium.ai) or see the pricing models that fit different team scales on our [pricing page](https://omnithium.ai/pricing). For deeper dives into cost optimization patterns, our [resources library](https://omnithium.ai/resources) includes guides on everything from token budget tuning to multi-model routing strategies.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/ai-agent-cost-attribution).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
